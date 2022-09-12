@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="jithendra">
+<test name="selenium">
+<classes>
+<class name="aug10.FirstTestNGClass">
+</class>
+<class name="aug11.SecondTestNG">
+</class>
+<class name="aug11.ThirdTestNG">
+</class>
+<class name="aug13.Demo1">
+</class>
+</classes>
+</test>
+</suite>

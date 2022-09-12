@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [jithu]">
+  <test name="report(failed)">
+    <classes>
+      <class name="aug11.SecondTestNG">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- aug11.SecondTestNG -->
+      <class name="aug10.FirstTestNGClass">
+        <methods>
+          <include name="Cbanking"/>
+          <include name="tearDown"/>
+          <include name="begining"/>
+        </methods>
+      </class> <!-- aug10.FirstTestNGClass -->
+    </classes>
+  </test> <!-- report(failed) -->
+</suite> <!-- Failed suite [jithu] -->

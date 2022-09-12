@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8582" started-at="2022-09-03T04:59:53Z" finished-at="2022-09-03T05:00:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8582" started-at="2022-09-03T04:59:53Z" finished-at="2022-09-03T05:00:01Z">
+      <class name="aug13.Demo1">
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:aug13.Demo1@3e6fa38a]" name="verifytitle" duration-ms="8569" started-at="2022-09-03T10:29:53Z" finished-at="2022-09-03T10:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+      </class> <!-- aug13.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
